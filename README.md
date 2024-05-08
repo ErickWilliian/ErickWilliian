@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Erick and I'm a  data scientist<br>, from Brazil</h2>
+<h2 align="center">Hi 👋! My name is Erick and I'm a  data scientist<br>, from Brazil</h2>
 
 ###
 
@@ -51,13 +51,10 @@
 
 ###
 
+<div align="center">
 <img src="./src/aigami-diva.gif"/>
-
+</div>div>
 ###
 
 <br clear="both">
 
-###
-
-
-###
