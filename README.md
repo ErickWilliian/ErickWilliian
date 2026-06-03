@@ -8,11 +8,6 @@
   </a>
 </div>
 
-<div align="center" style="background:#02031a">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=02031a&height=2" width="100%"/>
-</div>
-
-<br/>
 
 <div align="center">
 
@@ -32,24 +27,27 @@ const erick = {
   location: "Brazil 🇧🇷  →  working for the world",
   stack:    ["TypeScript", "JavaScript", "Python", "React", "Vue.js", "Node.js"],
   building: "SaaS platforms with cognitive AI",
-  creating: "Dev content in Portuguese",
+  creating: "Dev content in Portuguese and in english",
   also:     "Game dev in my spare time (Godot + Unreal)",
 };
 ```
 
 <br/>
 
-<div align="center">
-  <img
-    width="54%"
-    src="https://github-readme-stats-fast.vercel.app/api?username=ErickWilliian&show_icons=true&hide_border=true&bg_color=02031A&title_color=D4103A&text_color=EBDFCC&icon_color=D4103A"
-  />
-
-  <img
-    width="35%"
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ErickWilliian&layout=compact&langs_count=8&hide_border=true&bg_color=02031A&title_color=D4103A&text_color=EBDFCC"
-  />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api?username=ErickWilliian&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=02031A&title_color=D4103A&text_color=EBDFCC&icon_color=D4103A"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ErickWilliian&layout=compact&langs_count=8&hide_border=true&bg_color=02031A&title_color=D4103A&text_color=EBDFCC"
+      />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
